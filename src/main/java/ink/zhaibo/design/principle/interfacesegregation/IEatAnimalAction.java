@@ -4,5 +4,5 @@ package ink.zhaibo.design.principle.interfacesegregation;
  * Created by geely
  */
 public interface IEatAnimalAction {
-    void eat();
+    public void eat();
 }
